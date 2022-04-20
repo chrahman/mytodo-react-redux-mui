@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mytodo-react-redux-mui/static/css/main.498e2c0a.css",
+    "main.js": "/mytodo-react-redux-mui/static/js/main.571256b1.js",
+    "static/media/poppins-all-400-normal.woff": "/mytodo-react-redux-mui/static/media/poppins-all-400-normal.6fbfdac99c274b77fe96.woff",
+    "static/media/poppins-devanagari-400-normal.woff2": "/mytodo-react-redux-mui/static/media/poppins-devanagari-400-normal.64d5f06ee726edd58ca3.woff2",
+    "static/media/poppins-latin-400-normal.woff2": "/mytodo-react-redux-mui/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/mytodo-react-redux-mui/static/media/poppins-latin-ext-400-normal.4f38b4331448d2313adc.woff2",
+    "index.html": "/mytodo-react-redux-mui/index.html",
+    "main.498e2c0a.css.map": "/mytodo-react-redux-mui/static/css/main.498e2c0a.css.map",
+    "main.571256b1.js.map": "/mytodo-react-redux-mui/static/js/main.571256b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.498e2c0a.css",
+    "static/js/main.571256b1.js"
+  ]
+}
